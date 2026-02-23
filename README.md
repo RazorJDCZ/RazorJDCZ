@@ -104,8 +104,6 @@ Aplicación basada en inteligencia artificial para la generación de recetas, co
 ### 🧾 Sistema Nutricional
 Sistema desarrollado en Java con enfoque en arquitectura por capas, manejo de entidades, controladores y persistencia de datos.
 
-### 🛰️ Agentes para compras públicas (2023)
-Proyecto de análisis y automatización de datos públicos mediante agentes y procesamiento estructurado de información.
 
 ---
 
